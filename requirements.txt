@@ -6,3 +6,7 @@ plotly.express
 seaborn
 scikit-learn
 statsmodels
+sklearn.model_selection
+sklearn.ensemble
+sklearn.metrics
+sklearn.preprocessing
