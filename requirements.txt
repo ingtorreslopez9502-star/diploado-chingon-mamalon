@@ -7,6 +7,3 @@ seaborn
 scikit-learn
 statsmodels
 
-sklearn.ensemble
-sklearn.metrics
-sklearn.preprocessing
