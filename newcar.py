@@ -8,7 +8,7 @@ from sklearn.metrics import r2_score, mean_absolute_error
 from sklearn.preprocessing import LabelEncoder
 
 # Configuración de estilo visual
-sns (style="whitegrid")
+sns.set (style="whitegrid")
 plt.rcParams['figure.figsize'] = (16, 5)
 
 print("--- 1. CARGA Y PREPARACIÓN ---")
